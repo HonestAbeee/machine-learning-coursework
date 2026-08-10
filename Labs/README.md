@@ -1,26 +1,84 @@
 # Machine Learning Labs
 
-This folder contains the hands-on labs and exercises I completed during ITAI-1371.
+Hands-on machine learning labs completed for **ITAI-1371 at Houston Community College**. These notebooks document my progression from setting up a Python machine learning environment to building, evaluating, tuning, and organizing complete ML workflows.
 
-## Completed Labs
+## Labs
 
-- Module 2: Introductory Machine Learning Exercise
-- Module 3: Machine Learning Lab
-- Module 4: Exploratory Data Analysis
-- Module 5: Data Preparation
-- Module 6: Regression and Classification
-- Module 7: Model Evaluation
-- Module 8: Bias-Variance Tradeoff
-- Module 9: Ensemble Methods
-- Module 10: Unsupervised Learning
-- Module 11: Hyperparameter Tuning and AutoML
-- Module 12: Ethics, Fairness, and Bias in Machine Learning
-- Module 13: Building Machine Learning Pipelines
+- **Module 2 – Machine Learning Tools**
+  - Python, Jupyter Notebook, Google Colab, VS Code, and GitHub
+  - Pandas, NumPy, Matplotlib, and Scikit-learn
+  - Initial data exploration using the Iris dataset
 
-## What I Learned
+- **Module 3 – Machine Learning Workflow**
+  - Supervised, unsupervised, and reinforcement learning concepts
+  - End-to-end machine learning workflow
+  - Classification using the Wine dataset
 
-These labs helped me practice Python, Jupyter Notebooks, data preparation, visualization, supervised and unsupervised learning, model evaluation, ensemble methods, hyperparameter tuning, responsible AI, and machine learning pipelines.
+- **Module 4 – Exploratory Data Analysis**
+  - Dataset exploration and visualization
+  - Feature distributions, relationships, and data quality
 
-## Challenges
+- **Module 5 – Data Preparation**
+  - Missing-value handling
+  - Categorical feature encoding
+  - Preparing data for machine learning models
 
-Some challenges included correcting notebook errors, selecting appropriate models, preparing datasets, interpreting evaluation metrics, and troubleshooting package or code issues.
+- **Module 6 – Regression and Classification**
+  - Supervised machine learning
+  - Regression and classification model development
+
+- **Module 7 – Model Evaluation**
+  - Confusion matrices
+  - Precision, recall, and classification metrics
+  - Cross-validation and model performance analysis
+
+- **Module 8 – Bias-Variance Tradeoff**
+  - Underfitting and overfitting
+  - Comparing model complexity and generalization
+
+- **Module 9 – Ensemble Methods**
+  - Ensemble learning
+  - Random Forest models
+  - Comparing ensemble performance with individual models
+
+- **Module 10 – Unsupervised Learning**
+  - K-Means clustering
+  - Principal Component Analysis (PCA)
+  - Discovering patterns without labeled targets
+
+- **Module 11 – Hyperparameter Tuning and AutoML**
+  - Grid search and randomized search
+  - Model optimization and hyperparameter selection
+
+- **Module 12 – Ethics, Fairness, and Bias**
+  - Evaluating machine learning systems for bias
+  - Responsible AI and fairness considerations
+
+- **Module 13 – Machine Learning Pipelines**
+  - Scikit-learn pipelines
+  - Combining preprocessing and model training
+  - Building repeatable end-to-end ML workflows
+
+## Technologies
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter Notebook · Google Colab · GitHub
+
+## Skills Developed
+
+- Exploratory data analysis
+- Data cleaning and preprocessing
+- Feature preparation
+- Regression and classification
+- Model training and evaluation
+- Cross-validation
+- Ensemble learning
+- Unsupervised learning
+- Hyperparameter tuning
+- Responsible AI and fairness
+- Machine learning pipelines
+
+## Course
+
+**ITAI-1371 – Machine Learning**  
+Houston Community College  
+**Student:** Ibrahim Hasan
