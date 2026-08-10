@@ -1,17 +1,36 @@
-# Final Project: Sentiment Analysis of Amazon Product Reviews
+# Amazon Review Sentiment Analysis
+Final project for **ITAI-1371 at Houston Community College** focused on classifying Amazon product reviews as positive or negative using natural language processing and machine learning.
 
-## Problem
-
-The goal of this project was to build a machine learning model that could classify Amazon product reviews as positive or negative. This could help a business identify customer complaints and understand product feedback more efficiently.
-
-## Approach
-
-I used the Amazon portion of the UCI Sentiment Labelled Sentences dataset. I cleaned and prepared the review text, converted it into numerical features using TF-IDF, and trained Logistic Regression and Multinomial Naive Bayes models.
+## Project Overview
+The project includes:
+- Text cleaning and preprocessing
+- Exploratory data analysis
+- TF-IDF feature extraction
+- Logistic Regression
+- Multinomial Naive Bayes
+- Precision, recall, F1-score, and confusion matrix evaluation
+- Error analysis and business interpretation
 
 ## Results
+| Model | Test Accuracy |
+|---|---:|
+| Multinomial Naive Bayes | **79.8%** |
+| Logistic Regression | **77.8%** |
 
-The models were evaluated using accuracy, precision, recall, F1-score, and confusion matrices. The results showed that machine learning can successfully identify sentiment patterns in customer reviews.
+Multinomial Naive Bayes produced the strongest overall performance.
 
-## What I Learned
+## Technologies
+Python · Pandas · NumPy · Scikit-learn · Matplotlib · TF-IDF · Jupyter Notebook
 
-I learned how to prepare text data, train classification models, compare model performance, interpret results, and connect machine learning outputs to a real business problem.
+## Notebook
+[`Amazon_Review_Sentiment_Analysis.ipynb`](Amazon_Review_Sentiment_Analysis.ipynb)
+
+## Standalone Portfolio Version
+A polished standalone version of this project is available here:
+
+[**Amazon Review Sentiment Analysis**](https://github.com/HonestAbeee/amazon-review-sentiment-analysis)
+
+## Course
+**ITAI-1371 – Machine Learning**  
+Houston Community College  
+**Student:** Ibrahim Hasan
