@@ -1,40 +1,42 @@
-# Ibrahim Hasan – Machine Learning Course Portfolio
+# Machine Learning Coursework
+Coursework portfolio for ITAI-1371 at Houston Community College, featuring hands-on labs, assignments, and machine learning projects completed in Python and Jupyter Notebook.
 
-## About Me
-
-My name is Ibrahim Hasan, and this repository contains the labs, assignments, and projects I completed for ITAI-1371. I am interested in machine learning because it can be used to analyze data, automate tasks, recognize patterns, and solve real-world problems.
-
-Throughout this course, I practiced using Python, Jupyter Notebooks, data analysis tools, and machine learning methods. This portfolio documents my progress, the challenges I faced, and the skills I developed.
-
-## Repository Organization
+## Repository Structure
 
 ### Labs
+Hands-on exercises covering core machine learning concepts including:
 
-This folder contains hands-on exercises and lab notebooks completed throughout the course. Each lab folder includes the original code and a README explaining the purpose, process, challenges, and lessons learned.
+- Exploratory data analysis
+- Data preparation
+- Regression and classification
+- Model evaluation
+- Bias-variance tradeoff
+- Ensemble methods
+- Unsupervised learning
+- Hyperparameter tuning and AutoML
+- Ethics, fairness, and bias in machine learning
+- Machine learning pipelines
 
 ### Assignments
+Larger assignments and course projects focused on applying machine learning methods to practical problems.
 
-This folder contains larger assignments and course projects. Each assignment folder includes the code and documentation explaining the problem, approach, results, and conclusions.
+The final sentiment analysis project was also organized into its own standalone portfolio repository:
 
+[**Amazon Review Sentiment Analysis**](https://github.com/HonestAbeee/amazon-review-sentiment-analysis)
 ## Skills Practiced
-
-- Python programming
-- Jupyter Notebooks
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
 - Data preparation and analysis
 - Supervised and unsupervised learning
 - Regression and classification
 - Model training and evaluation
 - Data visualization
-- Machine learning problem-solving
-- Technical documentation
+- Machine learning pipelines
 
 ## Course Information
-
 - **Student:** Ibrahim Hasan
 - **Course:** ITAI-1371
 - **Institution:** Houston Community College
-- **Portfolio Repository:** Ibrahim-Hasan-ML-Course
-
-## Purpose
-
-This portfolio demonstrates my development throughout the course and presents my machine learning work in a clear, professional, and organized format.
